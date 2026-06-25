@@ -1,0 +1,17 @@
+esm==3.2.1.post1
+h5py==3.14.0
+huggingface_hub==0.36.2
+joblib==1.5.3
+numpy
+pandas
+rdkit
+scikit-learn==1.7.2
+scipy==1.15.3
+tabpfn==6.4.1
+tensorflow==2.21.0
+torch==2.8.0+cu126
+torch-geometric==2.7.0
+tqdm
+transformers==4.48.1
+x-transformers==2.17.7
+xgboost==3.2.0
